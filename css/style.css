@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: grey;
+}
+h1 {
+  font-family: "Helveltica", "Arial", sans-sans-serif;
+  font-size: 2em;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px grey;
+  background-color: lightgrey;
+  padding: 50px;
+  border-bottom: 1px solid white;
+}
+ul, li {
+  margin-left: 10px;
+}
+
+.joke
+{
+  font-family: "Helveltica", "Arial", sans-sans-serif;
+   text-align: center;
+   font-size: 30em;
+}
+.cool
+{
+  font-family: "Helveltica", "Arial", sans-sans-serif;
+  text-align: right;
+  padding: 20px 0 10px 20px; /* Top  Right  Bottom  Left */
+  margin-right: 30px;
+  font-size: 1em;
+  color: white;
+  text-shadow: 1px 1px grey;
+}
